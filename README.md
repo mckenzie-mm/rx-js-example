@@ -2,14 +2,14 @@
 
 <br>
 
-### Fireship Youtube Channel
+### FIRESHIP YOUTUBE CHANNEL
 
 | ![Screenshot](youtube-fireship.png) |
 | :---: |
 
 <br>
 
-### HTML displayed
+### HTML DISPLAYED
 | ![Screenshot](display.png) |
 | :---: |
 
