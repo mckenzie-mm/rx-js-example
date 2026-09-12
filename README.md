@@ -1,12 +1,12 @@
 # rx-js-example
 
-## Fireship Youtube Channel
+### Fireship Youtube Channel
 
 | ![Screenshot](youtube-fireship.png) |
 | :---: |
 
 
-## HTML displayed
+### HTML displayed
 | ![Screenshot](display.png) |
 | :---: |
 
