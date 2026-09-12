@@ -1,7 +1,9 @@
 # rx-js-example
 
 
-![Screenshot](youtube-fireship.png)
+| ![Screenshot](youtube-fireship.png) |
+| :---: |
 
-![Screenshot](display.png)
+| ![Screenshot](display.png) |
+| :---: |
 
