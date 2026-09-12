@@ -1,5 +1,6 @@
 # rx-js-example
 
+Demonstration code in HTML with CDS of RxJS
 <br>
 
 #### FIGURE 1. FIRESHIP YOUTUBE CHANNEL
