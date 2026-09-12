@@ -1,6 +1,9 @@
 # rx-js-example
 
-Demonstration code in HTML with CDS of RxJS
+Demonstration code in HTML with CDS of RxJS.
+
+25 Different examples of RxJS
+
 <br>
 
 #### FIGURE 1. FIRESHIP YOUTUBE CHANNEL
