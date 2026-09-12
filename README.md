@@ -2,14 +2,14 @@
 
 <br>
 
-#### FIRESHIP YOUTUBE CHANNEL
+#### FIGURE 1. FIRESHIP YOUTUBE CHANNEL
 
 | ![Screenshot](youtube-fireship.png) |
 | :---: |
 
 <br>
 
-#### HTML DISPLAYED
+#### FIGURE 2. HTML DISPLAYED
 | ![Screenshot](display.png) |
 | :---: |
 
